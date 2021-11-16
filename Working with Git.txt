@@ -1,5 +1,0 @@
-Working with Git :
-1. Create .gitignore
-2. Add (+)
-3. Commit
-4. Push
